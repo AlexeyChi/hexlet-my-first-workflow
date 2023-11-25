@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-hexlet-my-first-workflow
+repository for study git workflow
